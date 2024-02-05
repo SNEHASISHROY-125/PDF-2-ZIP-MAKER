@@ -25,6 +25,8 @@ run main.py
 
 ```
 
+![App Screenshot](https://github.com/SNEHASISHROY-125/PDF-2-ZIP-MAKER/blob/master/assets/Screenshot%20(26).png)
+
 
 ## Features
 
@@ -36,4 +38,5 @@ run main.py
 ## Screenshots
 
 ![App Screenshot](https://github.com/SNEHASISHROY-125/PDF-2-ZIP-MAKER/blob/master/assets/Screenshot%20(24).png)
+![App Screenshot](https://github.com/SNEHASISHROY-125/PDF-2-ZIP-MAKER/blob/master/assets/Screenshot%20(25).png)
 
