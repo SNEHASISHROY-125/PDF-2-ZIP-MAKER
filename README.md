@@ -35,5 +35,5 @@ run main.py
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SNEHASISHROY-125/PDF-2-ZIP-MAKER/blob/master/assets/Screenshot%20(24).png)
 
