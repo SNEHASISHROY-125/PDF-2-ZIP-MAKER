@@ -83,10 +83,10 @@ def create_subdirs(source_folder, destination_folder, zip_file_dir, sub_zip_file
         sub_dir_name = f"{sub_dir_start} - {sub_dir_end}"
         sub_dir_path = os.path.join(s_pdf_directory, sub_dir_name)
         try:
-            os.makedirs(sub_dir_path, exist_ok=True)
+            os.makedirs(sub_dir_path, exist_ok=False)
+            print(f"Created subdirectory: {sub_dir_path}")
         except FileExistsError:
             print(f"Subdirectory {sub_dir_path} already exists.")
-        print(f"Created subdirectory: {sub_dir_path}")
 
 
 # Replace these paths with your actual paths
